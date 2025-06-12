@@ -28,4 +28,4 @@ if the dominant population of the tile all believe in the same religion, that ti
 
 Back to Menu : [[Introduction]]
 Previous : [[Basic Premise]]
-Next : [[Introduction to Factions]]
+Next : [[Buildings and Special Tokens]]
