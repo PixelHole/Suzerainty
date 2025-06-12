@@ -1,0 +1,1 @@
+an ability that only a player playing as that faction can access and use

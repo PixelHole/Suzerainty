@@ -1,0 +1,1 @@
+all [[Tile|tiles]] that share a side (or edge) with a tile, are that tile's **neighbors**

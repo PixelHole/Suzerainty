@@ -1,0 +1,1 @@
+Each tile on the map, can house multiple [[Population token]]s belonging to different factions. a tile is controlled by a player with the most population tokens of their faction on that tile.

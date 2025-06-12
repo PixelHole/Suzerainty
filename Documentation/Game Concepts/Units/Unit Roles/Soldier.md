@@ -1,0 +1,1 @@
+All tokens of this role can [[Token Combat|Fight]] one another
