@@ -21,6 +21,8 @@ if the dominant population of the tile all believe in the same religion, that ti
 
 ![[example multi-ownership.png]]
 
+
+# NOTICE ! : all religion mechanics are currently WIP and might not stay.
 ## if at any time, one player controls 80% or more of the entire city's population or tiles. they win.
 
 

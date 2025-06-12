@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Revolutionaries/Units/Writer.md",
+                "file": "Intro/Players and Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writer"
+              "title": "Players and Factions"
             }
           }
         ]
@@ -170,11 +170,12 @@
   },
   "active": "8c2d6c111bacca6b",
   "lastOpenFiles": [
-    "Intro/Introduction to Factions.md",
+    "Intro/Basic Premise.md",
     "Intro/Introduction.md",
+    "Factions/Revolutionaries/Units/Writer.md",
+    "Intro/Introduction to Factions.md",
     "Factions/Revolutionaries/Revolutionaries.md",
     "Factions/Revolutionaries/Units/Armed Revolutionary.md",
-    "Factions/Revolutionaries/Units/Writer.md",
     "Factions/Revolutionaries/Buildings/Printing press.md",
     "Factions/Government/Units/Diplomat.md",
     "Game Concepts/Tokens/Unfriendly token.md",
@@ -193,7 +194,6 @@
     "Factions/Faction.md",
     "Intro/Buildings and Special Tokens.md",
     "Game Concepts/Units/Special token.md",
-    "Intro/Basic Premise.md",
     "Actions/Building in a Tile.md",
     "Images/example multi-ownership.png",
     "Game Concepts/Buildings/Building.md",
