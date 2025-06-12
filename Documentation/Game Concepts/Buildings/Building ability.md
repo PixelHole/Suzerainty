@@ -1,0 +1,1 @@
+the action that a building allows the player to do, or if its a passive ability, is provided *passively*

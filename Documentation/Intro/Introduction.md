@@ -11,3 +11,5 @@ please read all the contents in order to have a correct understanding of the gam
 2. [[Players and Factions]]
 3. [[Buildings and Special Tokens]]
 4. [[Introduction to Factions]]
+
+to check what needs to be done, read [[TODO]]

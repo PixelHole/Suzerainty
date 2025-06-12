@@ -1,0 +1,1 @@
+the dominant population on a [[Tile]] is the collection of all the [[Population token]]s and [[Special token]]s belonging to a single [[Faction]] that out-number any other faction on that tile.

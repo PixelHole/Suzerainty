@@ -21,3 +21,4 @@ Basic aesthetics :
 [[Building|Buildings]] :
 1. [[Printing press]]
 2. [[Weapon stash]]
+3. [[Secret passage]]

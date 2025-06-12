@@ -1,0 +1,1 @@
+a turn is started when one player starts playing and ends when the player decides to no longer play for that turn; be it because they have run out of actions to do or simply don't want to do anything else.
