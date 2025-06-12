@@ -1,7 +1,7 @@
-[[Unit role|Role]] : [[Basic]]
+[[Token role|Role]] : [[Basic]]
 
-## [[Unit ability|Abilities]]
-### [[Active unit ability|Active]]
+## [[Token ability|Abilities]]
+### [[Active token ability|Active]]
 #### Speech
 [[Token conversion|Convert]] one [[Neutral]] token into your faction. 
 for every 2 [[Friendly token]]s present on this tile at the time of activation :

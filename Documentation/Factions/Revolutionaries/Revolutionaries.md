@@ -1,5 +1,7 @@
-[[Faction ability]] : 
+[[Faction ability]] : can spend [[Movement points]] to [[Token conversion|convert]] any number of [[Population token]]s into [[Protestor]]s
 
+
+faction based on "power by numbers". this faction can have many many units, they aren't powerful on their own, but can make a big difference with each other
 
 Two play styles :
 - intellectual : players use the media and propaganda to levy support.

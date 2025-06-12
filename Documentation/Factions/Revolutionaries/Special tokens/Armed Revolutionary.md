@@ -1,10 +1,10 @@
-[[Unit role|Role]] : [[Soldier]]
+[[Token role|Role]] : [[Soldier]]
 
 
-## [[Unit ability|Abilities]]
-### [[Active unit ability|Active]]
+## [[Token ability|Abilities]]
+### [[Active token ability|Active]]
 #### TBD
 something about killing another special token or population token probably
 
-### [[Passive unit ability|Passive]]
+### [[Passive token ability|Passive]]
 increase the players [[Movement points#Movement point Cap|Movement point cap]] by 1

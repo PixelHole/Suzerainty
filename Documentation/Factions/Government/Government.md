@@ -1,5 +1,7 @@
-[[Faction ability]] : 
+[[Faction ability]] : TBD
 
+
+Centralized control and federal offices. this faction doesn't have that many tokens, but the tokens that it has are very powerful
 
 two play styles :
 - totalitarian : players use violence to coerce the population into submission.

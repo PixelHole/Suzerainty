@@ -1,0 +1,1 @@
+bonuses or buffs that a token applies without the choice of a player. for example a unit can raise the player's movement point cap simply by existing and being control by the player.

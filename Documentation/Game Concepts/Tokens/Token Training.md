@@ -1,0 +1,1 @@
+the act of converting a [[Friendly token]] into a [[Special token]].
